@@ -14,6 +14,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Ruffythemonkey/Ruffys.HostingExtensions</RepositoryUrl>
     <PackageTags>DependencyInjection; Hosting; ServiceCollection</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
